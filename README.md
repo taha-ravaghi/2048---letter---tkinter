@@ -15,15 +15,14 @@ To run this game, you need to have Python installed on your system. `Tkinter` is
 - Python 3.x
 
 ## How to Run 🚀
-```markdown
 1. Clone the repository:
 ```bash
 git clone https://github.com/taha-ravaghi/2048---letter---tkinter.git
-
+```
 2. Navigate to the project directory:
 ```bash
 cd 2048---letter---tkinter
-
+```
 3. Run the game:
 ```bash
 python ui_tk.py

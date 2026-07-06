@@ -27,3 +27,4 @@ cd 2048---letter---tkinter
 3. Run the game:
 ```bash
 python ui_tk.py
+```
